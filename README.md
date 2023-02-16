@@ -1,4 +1,5 @@
-# Workshop5-FrontEndBienvenue pour ce cinquième workshop :)
+# Workshop5-FrontEnd
+Bienvenue pour ce cinquième workshop :)
 
 🧵 Aujourd'hui nous allons nous concentrer sur un sujet en particulier : le front end et le déploiement d'une dApp sur le web
 
